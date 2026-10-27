@@ -5,10 +5,13 @@ A one-page demo website for Shri Lassi Corner, a lassi and snack shop in Chowk, 
 **Live site:** https://shri-lassi-corner.vercel.app
 
 ## About the business
-- Famous for thick Kesar Malai Lassi and Chole Bhature, with Badam Milk, Rabdi, Kulfi Faluda and Gajar Ka Halwa also at the counter
+- Famous for thick Kesar Malai Lassi and Chole Bhature, with Badam Milk, Rabdi, Kulfi Faluda, Gajar Ka Halwa and Rasgulla also at the counter
 - Address: Shop No. 5, 311/11/19, Kamla Nehru Marg, Near Bata Shoe Company, Chowk, Lucknow, Uttar Pradesh 226003
 - Phone: +91 522 400 6237
 - Open daily: 10:00 AM – 11:00 PM
 
 ## About this site
-Single-page static website (plain HTML/CSS/JS, no build step) with hero, story, menu highlights, gallery, opening hours, directions, click-to-call and a WhatsApp enquiry form.
+Single-page static website (plain HTML/CSS/JS, no build step) with hero, story, menu highlights, gallery, opening hours, directions, click-to-call and a WhatsApp enquiry form. Menu prices are intentionally not listed on the site, so no prices are invented for the shop.
+
+## How to view it
+No build step is needed: open `index.html` directly in a browser, or visit the live site linked above.
